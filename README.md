@@ -10,7 +10,7 @@ users.
 
 ## Affected Product
 - Product: MyBeeHome Web Application
-- Domain: mybeehome.com
+- Domain: (COMPANY-NAME).mybeehome.com
 - Environment: Cloud / SaaS
 - Affected versions: All versions prior to the security fix deployed in 2025
 
