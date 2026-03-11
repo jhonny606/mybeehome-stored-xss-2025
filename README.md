@@ -12,7 +12,7 @@ users.
 - Product: MyBeeHome Web Application
 - Domain: (COMPANY-NAME).mybeehome.com
 - Environment: Cloud / SaaS
-- Affected versions: All versions prior to the security fix deployed in 2025
+- Affected versions: MyBeeHome Web Application before 2025-11-01
 
 ## Vulnerability Type
 Stored Cross-Site Scripting (XSS)  
