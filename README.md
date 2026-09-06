@@ -67,4 +67,4 @@ validation and output encoding across the affected components.
 ## Credits
 Discovered by: Jhonnyffer Hannyel Ferro da Silva
 
-> CVE ID: TBD
+> CVE ID: CVE-2026-37468
