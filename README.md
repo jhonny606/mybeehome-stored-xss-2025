@@ -67,4 +67,4 @@ validation and output encoding across the affected components.
 ## Credits
 Discovered by: Jhonnyffer Hannyel Ferro da Silva & Patrick Simeoni
 
-> CVE ID: CVE-2026-37468 (RESERVED)
+> CVE ID: CVE-2026-37468
