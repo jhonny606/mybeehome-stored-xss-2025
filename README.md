@@ -65,6 +65,6 @@ validation and output encoding across the affected components.
   or `images/` directory of this repository.
 
 ## Credits
-Discovered by: Jhonnyffer Hannyel Ferro da Silva
+Discovered by: Jhonnyffer Hannyel Ferro da Silva & Patrick Simeoni
 
 > CVE ID: CVE-2026-37468 (RESERVED)
