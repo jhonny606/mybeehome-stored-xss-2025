@@ -59,6 +59,8 @@ validation and output encoding across the affected components.
 - Reported to vendor: 2025-04-11
 - Fixed: 2025-11-01
 - Public disclosure: 2025-12-26
+- CVE ID assigned: 2026-05-21
+- CVE published: 2026-10-30
 
 ## References
 - Additional technical details and screenshots are available in the `details/`
